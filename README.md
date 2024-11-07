@@ -1,8 +1,18 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaleonhard%2FSDi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![aa](https://github.com/user-attachments/assets/dfd559f7-ce8f-4f92-8308-e1295ebeaf26)
+
 # Projeto Acadêmico: Sistema de Divulgação de Informação (SDI)
 
 **Projeto acadêmico desenvolvido entre 2018 e 2019.**
 
 O **Sistema de Divulgação de Informação (SDI)** é uma aplicação destinada ao gerenciamento e envio de informações importantes para servidores de diferentes campi de uma instituição. Ele facilita a comunicação com os servidores cadastrados, garantindo que todos sejam informados de maneira rápida e centralizada.
+
+| ![2](https://github.com/user-attachments/assets/88a868f9-6209-413e-a4f7-d7cbbb950ab7) | ![3](https://github.com/user-attachments/assets/b9fdce84-d4ba-41d9-8175-5b54b7d83edd) |
+|:------------------------------------------------------:|:------------------------------------------------------:|
+| ![7](https://github.com/user-attachments/assets/e3cc8682-0ae5-4b13-9dd0-6e41beca06fd) | ![9](https://github.com/user-attachments/assets/57c4364e-bb0c-4ca6-ab79-2adea3adb4ac) |
+
+
 
 ## Funcionalidades
 
